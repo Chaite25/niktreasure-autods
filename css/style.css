@@ -273,10 +273,12 @@ marquee {
 }
 
 .shop-by-categories a {
-    color: #fff;
-    font-size: 18px;
-    font-weight: bold;
-    padding-right: 30px;
+	color: #fff;
+	font-size: 18px;
+	font-weight: bold;
+	padding-right: 30px;
+	display: inline-block;
+	text-align: center;
 }
 
 .shop-by-categories a img {
